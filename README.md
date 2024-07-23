@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yohaniii25
 - 👀 I’m interested in web development
-- 🌱 I’m currently studying at SLIIT 
+- 🌱 I’m currently working at SLTS 
 
 
 <!---
