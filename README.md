@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yohaniii25&label=Profile%20views&color=0e75b6&style=flat" alt="yohaniii25" /> </p>
 
-![Yohani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yohaniii25&show_icons=true&theme=radical)
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yohaniii25" alt="yohaniii25" /></a> </p>
 
@@ -22,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yohaniii25&show_icons=true&locale=en&layout=compact" alt="yohaniii25" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yohaniii25&show_icons=true&locale=en" alt="yohaniii25" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yohaniii25&theme=dark" alt="yohaniii25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yohaniii25&" alt="yohaniii25" /></p>
