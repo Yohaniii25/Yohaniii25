@@ -25,7 +25,8 @@
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=Yohaniii25&theme=dark" alt="yohaniii25" /></p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yohaniii25&theme=dark)
+
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG93NHFpdWV3bzE2N3JmejRkNDRtcTJxcHdxemp2OXIyd3ltaXRraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1m4ukmk9Lu90At2FGu/giphy.gif" width="500" align="center">
 
