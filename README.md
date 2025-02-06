@@ -23,9 +23,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yohaniii25&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yohaniii25&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Yohaniii25&theme=dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yohaniii25&" alt="yohaniii25" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=Yohaniii25&theme=dark" alt="yohaniii25" /></p>
 
 <img src="https://media.giphy.com/media/3orieQ7F9cIZe4ZXMQ/giphy.gif" width="500">
 
