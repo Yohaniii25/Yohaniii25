@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Yohani</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=blue&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Yohani!;Web+Developer+%7C+PHP+%7C+Laravel+%7C+Tailwind+CSS" alt="Typing SVG" />
+</p>
+
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="center">
@@ -125,6 +128,3 @@
   <em>"Code is like humor. When you have to explain it, it’s bad." - Cory House</em>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=blue&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Yohani!;Web+Developer+%7C+PHP+%7C+Laravel+%7C+Tailwind+CSS" alt="Typing SVG" />
-</p>
