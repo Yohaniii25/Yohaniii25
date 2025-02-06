@@ -7,13 +7,13 @@
 
 ![Yohani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yohaniii25&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yohaniii25&layout=compact&theme=dark)
 
 
 ### 🌍 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yohani-iduranga/)
 
-<img src="https://media.giphy.com/media/3orieQ7F9cIZe4ZXMQ/giphy.gif" width="500">
+
 
 > "Code is like humor. When you have to explain it, it’s bad." - Cory House
 
