@@ -23,11 +23,11 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yohaniii25&layout=compact&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Yohaniii25&theme=dark)
-
 <p><img align="center" src="https://streak-stats.demolab.com/?user=Yohaniii25&theme=dark" alt="yohaniii25" /></p>
 
-<img src="https://media.giphy.com/media/3orieQ7F9cIZe4ZXMQ/giphy.gif" width="500">
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG93NHFpdWV3bzE2N3JmejRkNDRtcTJxcHdxemp2OXIyd3ltaXRraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1m4ukmk9Lu90At2FGu/giphy.gif" width="500" align="center">
 
 > "Code is like humor. When you have to explain it, it’s bad." - Cory House
 
