@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yohaniii25" alt="yohaniii25" /></a> </p>
 
-- 🌱 I’m currently learning **Tailwind CSS, PHP Laravel**
-
-- 💬 Ask me about **PHP**
-
 - 📫 How to reach me **yohanii725@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
