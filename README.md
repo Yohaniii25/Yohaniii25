@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=blue&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Yohani!;Web+Developer+%7C+PHP+%7C+Laravel+%7C+Tailwind+CSS" alt="Typing SVG" />
 </p>
 
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yohaniii25&label=Profile%20views&color=0e75b6&style=flat" alt="yohaniii25" />
