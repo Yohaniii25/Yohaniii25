@@ -83,10 +83,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yohaniii25&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Yohaniii25&theme=dark" alt="GitHub Streak" />
 </p>
 
